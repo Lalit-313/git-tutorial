@@ -1,1 +1,2 @@
-This is the File 2 where we used to show the file difference in the github
+This is the File 2 where we used to show the file difference in the github.
+Adding a line to merge the request from another branch.
